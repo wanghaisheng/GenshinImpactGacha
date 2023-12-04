@@ -1,0 +1,1 @@
+pyinstaller -F -w -i "E:\SynologyDrive\闫弘宇\PythonProject\GenshinImpactGacha\冰.ico" mainGUI.py
